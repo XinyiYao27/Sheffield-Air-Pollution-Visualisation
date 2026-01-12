@@ -12,7 +12,7 @@ This project focuses on visualisation of pollutants in Sheffield to explore how 
 - **Radar Chart:** Showing the result of K-means clustering, containing three pollution patterns.
 
 ## 3. Data Used
-- Air pollution data downloaded from https://uk-air.defra.gov.uk/data/data_selector, containing three sites: Barnsley Road,   Tinsley and Devonshire Green.
+- Air pollution data downloaded from (https://uk-air.defra.gov.uk/data/data_selector), containing three sites: Barnsley Road,   Tinsley and Devonshire Green.
 - Meteorology data downloaded from https://open-meteo.com/.
 
 ## 4. How to Run
