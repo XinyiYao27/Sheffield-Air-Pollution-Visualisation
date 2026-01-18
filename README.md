@@ -16,6 +16,6 @@ This project focuses on visualisation of pollutants in Sheffield to explore how 
 - Meteorology data downloaded from https://open-meteo.com/.
 
 ## 4. How to Run
-1. Download the data from `Data`. 
-2. Clone the code from `Code`.
+1. Download the data from `Data/`. 
+2. Clone the code from `Code/`.
 3. Run `Data Pre-processing` first, then `Visualisation`.
