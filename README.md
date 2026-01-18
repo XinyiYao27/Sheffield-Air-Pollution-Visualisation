@@ -9,7 +9,7 @@ This project focuses on visualisation of pollutants in Sheffield to explore how 
 - **Line Chart:** Showing the three years trend of NO2 and PM2.5.
 - **Bubble Chart:** Showing how weather factors include temperature, wind speed and humidity affect NO2 concentration.
 - **Heatmap:** Showing how traffic affects NO2 concentration.
-- **Radar Chart:** Showing the result of K-means clustering, containing three pollution patterns.
+- **Spider Chart:** Showing the result of K-means clustering, containing three pollution patterns.
 
 ## 3. Data Used
 - Air pollution data downloaded from https://uk-air.defra.gov.uk/data/data_selector, containing three sites: Barnsley Road,   Tinsley and Devonshire Green.
